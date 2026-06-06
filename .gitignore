@@ -1,0 +1,33 @@
+# ====== Java / Maven ======
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+
+# ====== Spring Boot ======
+uploads/
+
+# ====== Node.js / Vite ======
+node_modules/
+dist/
+
+# ====== IDE ======
+.vscode/
+*.swp
+*.swo
+
+# ====== Build Tools (local only) ======
+tools/
+
+# ====== OS ======
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====== Environment ======
+.env
+.env.local

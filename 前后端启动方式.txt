@@ -1,0 +1,5 @@
+后端 （在 asset-management-backend 目录下）：
+& "c:\Users\陈某的电脑\Desktop\软工实践\tools\jdk17\jdk-17.0.14+7\bin\java.exe" -jar target/asset-management-backend-1.0.0.jar
+
+前端 （在 asset-management-frontend 目录下）：
+npx vite --host 127.0.0.1 --port 5173
